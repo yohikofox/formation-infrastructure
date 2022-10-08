@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="645px" preserveAspectRatio="none" style="width:597px;height:645px;background:#FFFFFF;" version="1.1" viewBox="0 0 597 645" width="597px" zoomAndPan="magnify"><defs/><g><!--MD5=[9532d4be44e93ef12adef598bc6535ad]
+cluster TheTribe--><g id="cluster_TheTribe"><polygon points="16,278.5,26,268.5,580,268.5,580,618.5,570,628.5,16,628.5,16,278.5" style="stroke:#181818;stroke-width:1.0;fill:none;"/><line style="stroke:#181818;stroke-width:1.0;fill:none;" x1="570" x2="580" y1="278.5" y2="268.5"/><line style="stroke:#181818;stroke-width:1.0;fill:none;" x1="16" x2="570" y1="278.5" y2="278.5"/><line style="stroke:#181818;stroke-width:1.0;fill:none;" x1="570" x2="570" y1="278.5" y2="628.5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="62" x="263" y="296.0332">TheTribe</text></g><!--MD5=[4f404de55baf87f510f6f29ca86187cc]
+cluster Applications--><g id="cluster_Applications"><polygon points="40,327.5,50,317.5,556,317.5,556,594.5,546,604.5,40,604.5,40,327.5" style="stroke:#181818;stroke-width:1.0;fill:none;"/><line style="stroke:#181818;stroke-width:1.0;fill:none;" x1="546" x2="556" y1="327.5" y2="317.5"/><line style="stroke:#181818;stroke-width:1.0;fill:none;" x1="40" x2="546" y1="327.5" y2="327.5"/><line style="stroke:#181818;stroke-width:1.0;fill:none;" x1="546" x2="546" y1="327.5" y2="604.5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="86" x="251" y="345.0332">Applications</text></g><!--MD5=[0fb2e53d75c5791d2e8d567d2bcc12e4]
+cluster bo--><g id="cluster_bo"><polygon points="173,376.5,183,366.5,462,366.5,462,570.5,452,580.5,173,580.5,173,376.5" style="stroke:#181818;stroke-width:1.0;fill:none;"/><line style="stroke:#181818;stroke-width:1.0;fill:none;" x1="452" x2="462" y1="376.5" y2="366.5"/><line style="stroke:#181818;stroke-width:1.0;fill:none;" x1="173" x2="452" y1="376.5" y2="376.5"/><line style="stroke:#181818;stroke-width:1.0;fill:none;" x1="452" x2="452" y1="376.5" y2="580.5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="74" x="276.5" y="394.0332">Backoffice</text></g><!--MD5=[cb46803b19ddc54ca68ae039ca255e19]
+entity fo--><g id="elem_fo"><polygon fill="#00FF00" points="56,418.5,66,408.5,154,408.5,154,446.1094,144,456.1094,56,456.1094,56,418.5" style="stroke:#181818;stroke-width:0.5;"/><line style="stroke:#181818;stroke-width:0.5;" x1="144" x2="154" y1="418.5" y2="408.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="56" x2="144" y1="418.5" y2="418.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="144" x2="144" y1="418.5" y2="456.1094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="58" x="71" y="443.0332">Frontend</text></g><!--MD5=[c7004816a3f1911862cb3f241eb280b4]
+entity br--><g id="elem_br"><path d="M483.5,527 L534.5,527 C539.5,527 539.5,540.8047 539.5,540.8047 C539.5,540.8047 539.5,554.6094 534.5,554.6094 L483.5,554.6094 C478.5,554.6094 478.5,540.8047 478.5,540.8047 C478.5,540.8047 478.5,527 483.5,527 " fill="#6FA2FF" style="stroke:#181818;stroke-width:0.5;"/><path d="M534.5,527 C529.5,527 529.5,540.8047 529.5,540.8047 C529.5,554.6094 534.5,554.6094 534.5,554.6094 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="41" x="483.5" y="546.5332">broker</text></g><!--MD5=[7a3792b038281ded935de378231f6f23]
+entity be--><g id="elem_be"><polygon fill="#00FF00" points="189.5,418.5,199.5,408.5,284.5,408.5,284.5,446.1094,274.5,456.1094,189.5,456.1094,189.5,418.5" style="stroke:#181818;stroke-width:0.5;"/><line style="stroke:#181818;stroke-width:0.5;" x1="274.5" x2="284.5" y1="418.5" y2="408.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="189.5" x2="274.5" y1="418.5" y2="418.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="274.5" x2="274.5" y1="418.5" y2="456.1094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="55" x="204.5" y="443.0332">Backend</text></g><!--MD5=[430f40f522cb9f6d51a8230909252821]
+entity bg--><g id="elem_bg"><ellipse cx="383" cy="423.5" fill="#00FF00" rx="12" ry="12" style="stroke:#181818;stroke-width:0.5;"/><polygon fill="#181818" points="379,411.5,385,406.5,383,411.5,385,416.5,379,411.5" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="126" x="320" y="454.0332">Background Worker</text></g><!--MD5=[7468467f3b6b392f1d176d828c753b77]
+entity db--><g id="elem_db"><path d="M292,527.5 C292,517.5 310,517.5 310,517.5 C310,517.5 328,517.5 328,527.5 L328,554.1094 C328,564.1094 310,564.1094 310,564.1094 C310,564.1094 292,564.1094 292,554.1094 L292,527.5 " fill="#6FA2FF" style="stroke:#181818;stroke-width:0.5;"/><path d="M292,527.5 C292,537.5 310,537.5 310,537.5 C310,537.5 328,537.5 328,527.5 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="16" x="302" y="556.0332">db</text></g><!--MD5=[979c31051cf8d07bdf927ed864b836ec]
+entity cl--><g id="elem_cl"><ellipse cx="171" cy="14" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><path d="M171,22 L171,49 M158,30 L184,30 M171,49 L158,64 M171,49 L184,64 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="62" x="140" y="80.0332">Utilisateur</text></g><!--MD5=[d5096230de5c7e9b5a3d1997ba7f37f3]
+entity cs--><g id="elem_cs"><polygon fill="#E8E8E8" points="125.5,214.5,135.5,204.5,216.5,204.5,216.5,242.1094,206.5,252.1094,125.5,252.1094,125.5,214.5" style="stroke:#181818;stroke-width:0.5;"/><line style="stroke:#181818;stroke-width:0.5;" x1="206.5" x2="216.5" y1="214.5" y2="204.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="125.5" x2="206.5" y1="214.5" y2="214.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="206.5" x2="206.5" y1="214.5" y2="252.1094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="51" x="140.5" y="239.0332">Website</text></g><!--MD5=[0f646e05243dda16f9a6ff344a3c2eb7]
+link cl to cs--><g id="link_cl_cs"><path d="M171,83.52 C171,83.52 171,194.44 171,194.44 " fill="none" id="cl-to-cs" style="stroke:#181818;stroke-width:1.0;"/><path d="M179.4572,201.3618 A9,9 0 0 0 162.5428 201.3618" fill="none" style="stroke:#181818;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="118" x="52" y="135.4751">Centre d'interactions</text></g><!--MD5=[ec96a4ea5109b1cd9a8eb662960bd505]
+link cs to fo--><g id="link_cs_fo"><path d="M139.75,252.7 C139.75,252.7 139.75,398.33 139.75,398.33 " fill="none" id="cs-to-fo" style="stroke:#181818;stroke-width:1.0;"/><path d="M148.2072,405.2518 A9,9 0 0 0 131.2928 405.2518" fill="none" style="stroke:#181818;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="116" x="22.75" y="306.0151">Rendre une page ou</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="107" x="27.25" y="322.3667">une partie de page</text></g><!--MD5=[54d09c43d66dd11006e01035aec50566]
+link cs to be--><g id="link_cs_be"><path d="M203,257.7 C203,257.7 203,403.33 203,403.33 " fill="none" id="cs-be" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="203,408.33,207,399.33,203,403.33,199,399.33,203,408.33" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="203,252.7,199,261.7,203,257.7,207,261.7,203,252.7" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="98" x="104" y="345.0151">get/post/put data</text></g><!--MD5=[b480b27e39795b25865b9daa5f33527b]
+link be to br--><g id="link_be_br"><path d="M237,456.78 C237,471.52 237,487.5 237,487.5 C237,487.5 498.83,487.5 498.83,487.5 C498.83,487.5 498.83,506.94 498.83,506.94 " fill="none" id="be-to-br" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="505.83,506.94,498.83,526.94,491.83,506.94,505.83,506.94" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="17" x="344.28" y="483.9951">[P]</text></g><!--MD5=[34815eb9f5fcacbfbef15327b9126caf]
+reverse link br to bg--><g id="link_br_bg"><path d="M519.17,516.82 C519.17,516.82 519.17,432.5 519.17,432.5 C519.17,432.5 481.86,432.5 446.3,432.5 " fill="none" id="br-backto-bg" style="stroke:#181818;stroke-width:1.0;"/><path d="M527.6272,523.7418 A9,9 0 0 0 510.7128 523.7418" fill="none" style="stroke:#181818;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="29" x="489.17" y="434.7151">[C|A]</text></g><!--MD5=[d0aeb77f98b04fc383b319ab788a390b]
+link be to db--><g id="link_be_db"><path d="M284.55,432.5 C296.5,432.5 306,432.5 306,432.5 C306,432.5 306,507.46 306,507.46 " fill="none" id="be-to-db" style="stroke:#181818;stroke-width:1.0;"/><path d="M314.4572,514.3818 A9,9 0 0 0 297.5428 514.3818" fill="none" style="stroke:#181818;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="9" x="296" y="455.7451">R</text></g><!--MD5=[0f6af8c27eec050440f95d7236d49320]
+link bg to db--><g id="link_bg_db"><path d="M324,457.66 C324,457.66 324,497.46 324,497.46 " fill="none" id="bg-to-db" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="331,497.46,324,517.46,317,497.46,331,497.46" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="13" x="310" y="474.0551">W</text></g><!--MD5=[23244c974c2dbab7a5cfa9cbf2e5cc09]
+@startuml
+skinparam linetype ortho
+
+actor Utilisateur as cl
+node Website as cs  #e8e8e8
+
+node TheTribe {
+
+  node Applications {
+    node Frontend as fo #00FF00
+      node Backoffice as bo {
+        node Backend as be  #00FF00
+        control "Background Worker" as bg #00FF00
+        database db as db  #6FA2FF
+      }
+      queue broker as br #6FA2FF
+  }
+}
+
+cl - - -( cs : Centre d'interactions
+cs - -( fo : Rendre une page ou\nune partie de page
+cs <- -> be : get/post/put data
+
+be -down-|> br : [P]
+bg - -left-( br: [C|A]
+
+be - -( db: R
+bg - -|> db: W
+@enduml
+
+PlantUML version 1.2022.6(Tue Jun 21 19:34:49 CEST 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) Client VM
+Default Encoding: Cp1252
+Language: fr
+Country: FR
+--></g></svg>
