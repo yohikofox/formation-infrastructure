@@ -1,0 +1,29 @@
+@startuml
+skinparam linetype ortho
+
+actor Utilisateur as cl
+node Website as cs  #e8e8e8
+
+node TheTribe {
+
+  node Applications {
+    node Frontend as fo #00FF00
+      node Backoffice as bo {
+        node Backend as be  #00FF00
+        control "Background Worker" as bg #00FF00
+        database db as db  #6FA2FF
+      }
+      queue broker as br #6FA2FF
+  }
+}
+
+cl ---( cs : Centre d'interactions
+cs --( fo : Rendre une page ou\nune partie de page
+cs <--> be : get/post/put data
+
+be -down-|> br : [P]
+bg --left-( br: [C|A]
+
+be --( db: R
+bg --|> db: W
+@enduml

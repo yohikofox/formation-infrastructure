@@ -38,68 +38,8 @@ Couleur                                                                         
 
 ### Ce qui doit être déployé
 
-```plantuml
-skinparam linetype ortho
-
-actor Utilisateur as cl
-node Website as cs  #e8e8e8
-
-node TheTribe {
-
-  node Applications {
-    node Frontend as fo #00FF00
-      node Backoffice as bo {
-        node Backend as be  #00FF00
-        control "Background Worker" as bg #00FF00
-        database db as db  #6FA2FF
-      }
-      queue broker as br #6FA2FF
-  }
-}
-
-cl ---( cs : Centre d'interactions
-cs --( fo : Rendre une page ou\nune partie de page
-cs <--> be : get/post/put data
-
-be -down-|> br : [P]
-bg --left-( br: [C|A]
-
-be --( db: R
-bg --|> db: W
-```
+![](.asset/diagram_global.svg)
 
 ### Infrastructure à mettre en place
 
-```plantuml
-actor user  as u
-
-node Kubernetes as kube {
-  port p1
-  node "App Node" as app_n{
-    node pods as ps {
-        node frontend as p_fo
-        node backend as p_be
-    }
-  }
-
-  node cert_manager {
-    rectangle www as tls_www
-    rectangle api as tls_api
-  }
-  node ingress_controller as nginx {
-      package ingress {
-        rectangle www as in_www
-        rectangle api as in_api
-      }
-
-      in_www --> tls_www
-      in_api --> tls_api
-  }
-
-  in_www --> p_fo
-  in_api --> p_be
-}
-
-u ----> p1
-p1 ----> nginx
-```
+![](.asset/infrastructure.svg)
