@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="861px" preserveAspectRatio="none" style="width:581px;height:861px;background:#FFFFFF;" version="1.1" viewBox="0 0 581 861" width="581px" zoomAndPan="magnify"><defs/><g><!--MD5=[f246cbbc75de9fc6a2c4a54fced106da]
+cluster kube--><g id="cluster_kube"><polygon points="16,281.5,26,271.5,564,271.5,564,834.5,554,844.5,16,844.5,16,281.5" style="stroke:#181818;stroke-width:1.0;fill:none;"/><line style="stroke:#181818;stroke-width:1.0;fill:none;" x1="554" x2="564" y1="281.5" y2="271.5"/><line style="stroke:#181818;stroke-width:1.0;fill:none;" x1="16" x2="554" y1="281.5" y2="281.5"/><line style="stroke:#181818;stroke-width:1.0;fill:none;" x1="554" x2="554" y1="281.5" y2="844.5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="83" x="244.5" y="299.0332">Kubernetes</text></g><!--MD5=[a025f8a0c85090e585e0a212a298c0bc]
+cluster app_n--><g id="cluster_app_n"><polygon points="40,652.5,50,642.5,343,642.5,343,810.5,333,820.5,40,820.5,40,652.5" style="stroke:#181818;stroke-width:1.0;fill:none;"/><line style="stroke:#181818;stroke-width:1.0;fill:none;" x1="333" x2="343" y1="652.5" y2="642.5"/><line style="stroke:#181818;stroke-width:1.0;fill:none;" x1="40" x2="333" y1="652.5" y2="652.5"/><line style="stroke:#181818;stroke-width:1.0;fill:none;" x1="333" x2="333" y1="652.5" y2="820.5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="68" x="153.5" y="670.0332">App Node</text></g><!--MD5=[62664ab8c1474ac00322c2caeada7a82]
+cluster ps--><g id="cluster_ps"><polygon points="64,701.5,74,691.5,319,691.5,319,786.5,309,796.5,64,796.5,64,701.5" style="stroke:#181818;stroke-width:1.0;fill:none;"/><line style="stroke:#181818;stroke-width:1.0;fill:none;" x1="309" x2="319" y1="701.5" y2="691.5"/><line style="stroke:#181818;stroke-width:1.0;fill:none;" x1="64" x2="309" y1="701.5" y2="701.5"/><line style="stroke:#181818;stroke-width:1.0;fill:none;" x1="309" x2="309" y1="701.5" y2="796.5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="35" x="170" y="719.0332">pods</text></g><!--MD5=[94fd1b11dfb6c2b80867d7e1450964c8]
+cluster cert_manager--><g id="cluster_cert_manager"><polygon points="367,706.5,377,696.5,540,696.5,540,781.5,530,791.5,367,791.5,367,706.5" style="stroke:#181818;stroke-width:1.0;fill:none;"/><line style="stroke:#181818;stroke-width:1.0;fill:none;" x1="530" x2="540" y1="706.5" y2="696.5"/><line style="stroke:#181818;stroke-width:1.0;fill:none;" x1="367" x2="530" y1="706.5" y2="706.5"/><line style="stroke:#181818;stroke-width:1.0;fill:none;" x1="530" x2="530" y1="706.5" y2="791.5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="97" x="401" y="724.0332">cert_manager</text></g><!--MD5=[4c651f763c28091aa679ffb04cf9ebf5]
+cluster nginx--><g id="cluster_nginx"><polygon points="262,441.5,272,431.5,488,431.5,488,600.5,478,610.5,262,610.5,262,441.5" style="stroke:#181818;stroke-width:1.0;fill:none;"/><line style="stroke:#181818;stroke-width:1.0;fill:none;" x1="478" x2="488" y1="441.5" y2="431.5"/><line style="stroke:#181818;stroke-width:1.0;fill:none;" x1="262" x2="478" y1="441.5" y2="441.5"/><line style="stroke:#181818;stroke-width:1.0;fill:none;" x1="478" x2="478" y1="441.5" y2="610.5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="130" x="306" y="459.0332">ingress_controller</text></g><!--MD5=[e096f79fa97ccfd89068ba218504e485]
+cluster ingress--><g id="cluster_ingress"><path d="M304.5,488.5 L358.5,488.5 A3.75,3.75 0 0 1 361,491 L368,512.1094 L453.5,512.1094 A2.5,2.5 0 0 1 456,514.6094 L456,576 A2.5,2.5 0 0 1 453.5,578.5 L304.5,578.5 A2.5,2.5 0 0 1 302,576 L302,491 A2.5,2.5 0 0 1 304.5,488.5 " style="stroke:#000000;stroke-width:1.5;fill:none;"/><line style="stroke:#000000;stroke-width:1.5;fill:none;" x1="302" x2="368" y1="512.1094" y2="512.1094"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="53" x="306" y="505.0332">ingress</text></g><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="16" x="204" y="250.4238">p1</text><rect fill="#181818" height="12" style="stroke:#F1F1F1;stroke-width:1.5;" width="12" x="206" y="265.5"/><!--MD5=[ac8841730fa8ef66a848957bbc481d93]
+entity p_fo--><g id="elem_p_fo"><polygon fill="#F1F1F1" points="209.5,742.5,219.5,732.5,302.5,732.5,302.5,770.1094,292.5,780.1094,209.5,780.1094,209.5,742.5" style="stroke:#181818;stroke-width:0.5;"/><line style="stroke:#181818;stroke-width:0.5;" x1="292.5" x2="302.5" y1="742.5" y2="732.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="209.5" x2="292.5" y1="742.5" y2="742.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="292.5" x2="292.5" y1="742.5" y2="780.1094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="53" x="224.5" y="767.0332">frontend</text></g><!--MD5=[9a966b9e3321c47ce6988567593dde0e]
+entity p_be--><g id="elem_p_be"><polygon fill="#F1F1F1" points="80,742.5,90,732.5,174,732.5,174,770.1094,164,780.1094,80,780.1094,80,742.5" style="stroke:#181818;stroke-width:0.5;"/><line style="stroke:#181818;stroke-width:0.5;" x1="164" x2="174" y1="742.5" y2="732.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="80" x2="164" y1="742.5" y2="742.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="164" x2="164" y1="742.5" y2="780.1094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="54" x="95" y="767.0332">backend</text></g><!--MD5=[8df1ff246c1745c889a8dc6bb1041228]
+entity tls_www--><g id="elem_tls_www"><rect fill="#F1F1F1" height="37.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="47" x="457.5" y="737.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="27" x="467.5" y="762.0332">www</text></g><!--MD5=[c8735cc2dae07b4c758c9fb21be3430c]
+entity tls_api--><g id="elem_tls_api"><rect fill="#F1F1F1" height="37.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="39" x="383.5" y="737.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="19" x="393.5" y="762.0332">api</text></g><!--MD5=[b176e8d24f3b6804e8664c11d38304b4]
+entity in_www--><g id="elem_in_www"><rect fill="#F1F1F1" height="37.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="47" x="392.5" y="524.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="27" x="402.5" y="549.0332">www</text></g><!--MD5=[b09ad187f8512abe944c7d0c19fb507b]
+entity in_api--><g id="elem_in_api"><rect fill="#F1F1F1" height="37.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="39" x="318.5" y="524.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="19" x="328.5" y="549.0332">api</text></g><!--MD5=[7d46d6cd919e02e6168a09ad91eae8b4]
+entity u--><g id="elem_u"><ellipse cx="212" cy="14" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><path d="M212,22 L212,49 M199,30 L225,30 M212,49 L199,64 M212,49 L225,64 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="28" x="198" y="80.0332">user</text></g><!--MD5=[30f791b8a6eb647dc48b613051a6f0d8]
+link in_www to tls_www--><g id="link_in_www_tls_www"><path d="M421.65,562.86 C433.5,601.3 460.88,690.2 473.89,732.43 " fill="none" id="in_www-to-tls_www" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="475.4,737.34,476.5784,727.5619,473.9306,732.5608,468.9317,729.913,475.4,737.34" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[5b0b74c2812be5566aac85dc052a7e52]
+link in_api to tls_api--><g id="link_in_api_tls_api"><path d="M343.65,562.86 C355.5,601.3 382.88,690.2 395.89,732.43 " fill="none" id="in_api-to-tls_api" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="397.4,737.34,398.5784,727.5619,395.9306,732.5608,390.9317,729.913,397.4,737.34" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[73efed45dfee77a6eeefa7bf4dc9e040]
+link in_www to p_fo--><g id="link_in_www_p_fo"><path d="M408.9,562.71 C401.72,579.98 389.61,606.23 375,626.5 C372.06,630.58 370.48,630.87 367,634.5 C336.49,666.35 302.31,703.9 280.05,728.63 " fill="none" id="in_www-to-p_fo" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="276.58,732.48,285.5824,728.4853,279.9327,728.7706,279.6474,723.121,276.58,732.48" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[89f1ec35f1aa49addb98cac4638243ea]
+link in_api to p_be--><g id="link_in_api_p_be"><path d="M338.52,562.74 C337.98,581.87 333.84,611.23 315,626.5 C293.72,643.75 215.04,619.69 192,634.5 C159.39,655.47 141.98,698.61 133.62,727.3 " fill="none" id="in_api-to-p_be" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="132.26,732.13,138.5519,724.5529,133.6166,727.3176,130.852,722.3823,132.26,732.13" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[d6f5317445c0d3c12a94b4638b18f71f]
+link u to p1--><g id="link_u_p1"><path d="M212,83.67 C212,136.56 212,229.14 212,260.09 " fill="none" id="u-to-p1" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="212,265.43,216,256.43,212,260.43,208,256.43,212,265.43" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[b9e388189028ee1968bb0dd3d1d099f5]
+link p1 to nginx--><g id="link_p1_nginx"><path d="M214.86,277.69 C224.37,295.26 254.95,354.36 266,407.5 C267.5037,414.7313 268.698,422.2269 269.6361,429.8123 C269.6947,430.2864 269.7523,430.7609 269.809,431.2356 " fill="none" id="p1-to-nginx" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="269.809,431.2356,272.7146,421.8251,269.2166,426.2708,264.7709,422.7729,269.809,431.2356" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[12f2ae84b9cfead8e2ea1d752fcb2dd6]
+@startuml
+actor user  as u
+
+node Kubernetes as kube {
+  port p1
+  node "App Node" as app_n{
+    node pods as ps {
+        node frontend as p_fo
+        node backend as p_be
+    }
+  }
+
+  node cert_manager {
+    rectangle www as tls_www
+    rectangle api as tls_api
+  }
+  node ingress_controller as nginx {
+      package ingress {
+        rectangle www as in_www
+        rectangle api as in_api
+      }
+
+      in_www - -> tls_www
+      in_api - -> tls_api
+  }
+
+  in_www - -> p_fo
+  in_api - -> p_be
+}
+
+u - - - -> p1
+p1 - - - -> nginx
+@enduml
+
+PlantUML version 1.2022.6(Tue Jun 21 19:34:49 CEST 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) Client VM
+Default Encoding: Cp1252
+Language: fr
+Country: FR
+--></g></svg>
