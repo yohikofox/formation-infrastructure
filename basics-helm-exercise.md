@@ -8,8 +8,6 @@ A la fin de cet exercice vous connaîtrez les bases de Helm, ainsi vous pourrez 
 
 1. Installer Helm
 1. Création d'un chart Helm (nginx)
-1. Vérifier son package Helm
-1. Packager un chart Helm
 1. Déployer un chart Helm
 
 ### Résultat attendu
@@ -37,6 +35,8 @@ Une fois la partie Ingress effectuée, le service nginx devra être accessible d
 
 1. Créer un dépôt publique Github pour y héberger nos charts
 1. Enrichir ce dépôt avec vos charts
+1. Vérifier votre chart
+1. Packager votre chart
 1. Indexer vos packages
 1. Transformer ce dépôt en Github pages
 
